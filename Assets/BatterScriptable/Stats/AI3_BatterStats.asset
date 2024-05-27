@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 246ffe1f1418daf4380a173545fee44f, type: 3}
+  m_Name: AI3_BatterStats
+  m_EditorClassIdentifier: 
+  PA: 0
+  AB: 0
+  Hit: 0
+  Double: 0
+  Triple: 0
+  HomeRun: 0
+  RBI: 0
+  Run: 0
+  Steal: 0
+  Games: 0
+  BB: 0
+  SO: 0
+  HBP: 0
+  SF: 0

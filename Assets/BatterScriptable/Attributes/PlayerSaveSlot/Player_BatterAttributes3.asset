@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a486c3ad18e47bc4b886ea04188b0ba0, type: 3}
+  m_Name: Player_BatterAttributes3
+  m_EditorClassIdentifier: 
+  m_strName: 
+  m_BatterHand: 0
+  m_fContactLeft: 0
+  m_fContactRight: 0
+  m_fPowerLeft: 0
+  m_fPowerRight: 0
+  m_fSpeedRun: 0
+  m_fThrowAccuracy: 0
+  m_fThrowPower: 0
+  m_fVision: 0
+  m_Position:
+    catcher: 0
+    firstBase: 0
+    secondBase: 0
+    thirdBase: 0
+    shortStop: 0
+    leftFielder: 0
+    centerFielder: 0
+    rightFielder: 0
+  m_MPosition: 0

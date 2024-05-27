@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a486c3ad18e47bc4b886ea04188b0ba0, type: 3}
+  m_Name: AI1_BatterAttributes
+  m_EditorClassIdentifier: 
+  m_strName: AI_One
+  m_BatterHand: 0
+  m_fContactLeft: 86
+  m_fContactRight: 77
+  m_fPowerLeft: 49
+  m_fPowerRight: 41
+  m_fSpeedRun: 95
+  m_fThrowAccuracy: 81
+  m_fThrowPower: 62
+  m_fVision: 90
+  m_Position:
+    catcher: 0
+    firstBase: 0
+    secondBase: 0
+    thirdBase: 0
+    shortStop: 0
+    leftFielder: 1
+    centerFielder: 1
+    rightFielder: 1
+  m_MPosition: 6
